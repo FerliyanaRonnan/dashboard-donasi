@@ -48,7 +48,7 @@ Data merupakan hasil olahan dari **500 transaksi donasi** dari **186 donatur uni
 
 ## ✏️ Kustomisasi
 
-Karena seluruh data tersimpan sebagai satu objek JavaScript (variabel `D`) di bagian bawah `index.html`, dashboard dapat digunakan kembali untuk dataset lain dengan mengganti isi objek tersebut mengikuti struktur yang sama (`months`, `monthly_total`, `programs`, `program_total`, `kategori`, `top10`, `semester`, `wilayah`, `wilayah_total`, `kpi`, dll.) — tanpa perlu mengubah kode chart maupun styling.
+Karena seluruh data tersimpan sebagai satu objek JavaScript (variabel `D`) di bagian bawah `index.html`, dashboard dapat digunakan kembali untuk dataset lain dengan mengganti isi objek tersebut mengikuti struktur yang sama (`months`, `monthly_total`, `programs`, `program_total`, `kategori`, `top10`, `semester`, `wilayah`, `wilayah_total`, `kpi`, dll.) tanpa perlu mengubah kode chart maupun styling.
 
 ## 📄 Lisensi
 
